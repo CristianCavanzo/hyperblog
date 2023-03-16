@@ -13,6 +13,7 @@ Master 1.
 Master 2.
 
 
-cambio de emergencia en la historia
+cambio de emergencia en la historia.
+este es un commit previo a utilizar el cherry-pick, para ver como funciona en un ejemplo super practico
 
 Mañana nos enfocaremos en su vida laboral.
